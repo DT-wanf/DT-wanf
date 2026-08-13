@@ -3,6 +3,7 @@
 AI Research & Education · Creator of **SCI-Skills**
 
 专注于 AI + 科研工作流，希望让论文小白也能更规范、更高效地完成科研。
+内测更新版请关注抖音“晚风(SCI-Skills)”，进专属会员群和我一起推动AI科研。
 
 ---
 
